@@ -1,0 +1,14 @@
+Prompt engineering
+The process of providing inputs to generative AI models to specify the responses the model can produce. 
+In-context learning
+Another term for prompt engineering, where examples are provided to guide the model. 
+Fine-tuning
+The process of tweaking an AI model's parameters to improve its performance. 
+Adversarial prompting
+The process of testing a model's resilience against challenging inputs to identify areas where it may produce incorrect or biased outputs. 
+Retrieval-Augmented Generation (RAG)
+A technique that uses retrieved information to enhance a model's performance in tasks like question answering and text generation. 
+Chain-of-thought (CoT) prompting
+A technique that allows large language models (LLMs) to solve a problem as a series of intermediate steps before giving a final answer. 
+The 4S method
+A framework that uses the principles of Simplicity, Specificity, Sensitivity, and Structure to enhance the effectiveness of AI applications. 
