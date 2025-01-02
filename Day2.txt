@@ -2,3 +2,4 @@ Bag of words
 Word2vec
 Embeddings
 RNN
+Attention all you - started
