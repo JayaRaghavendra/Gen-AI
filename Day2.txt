@@ -1,0 +1,4 @@
+Bag of words 
+Word2vec
+Embeddings
+RNN
