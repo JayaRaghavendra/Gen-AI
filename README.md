@@ -1,13 +1,10 @@
 # Raghav - Gen-AI space
 
-
-[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/JayaRaghavendra/Gen-AI/watchers)
-
-[![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/JayaRaghavendra/Gen-AI/stargazers)
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/JayaRaghavendra) 
 [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/JayaRaghavendra/Gen-AI/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/JayaRaghavendra/Gen-AI/pulls)
+[![Watch on GitHub](https://img.shields.io/github/watchers/JayaRaghavendra/Gen-AI.svg?style=social)](https://github.com/JayaRaghavendra/Gen-AI/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/JayaRaghavendra/Gen-AI.svg?style=social)](https://github.com/JayaRaghavendra/Gen-AI/stargazers)
 
 -  Adding my Learnings, Important notes and codes <br />
 
