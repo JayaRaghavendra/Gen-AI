@@ -10,8 +10,10 @@
 
 Make your learnings creative & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
-<sub>Last updated : 3rd Jan 2025 </sub>
+<sub>Upcoming : CONTRIBUTING.md </sub>
 
 ## Important links to read :
 [1.Prompt_Eng basics](https://www.promptingguide.ai/) <br/>
 [2.Prompt_Eng intro](https://www.k2view.com/blog/prompt-engineering-techniques/#Prompt-engineering-embedded-in-GenAI-Data-Fusion)
+
+<sub>Last updated : 3rd Jan 2025 </sub>
